@@ -44,5 +44,5 @@ notify.php   异步回调通知
 
 
 
-    <p align="center">联系邮箱：95723515@qq.com</p>
+  联系邮箱：95723515@qq.com
 
