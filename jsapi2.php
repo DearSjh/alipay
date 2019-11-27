@@ -1,5 +1,6 @@
 <?php
 //文档地址：https://docs.open.alipay.com/common/105591
+
 error_reporting(0);
 header('Content-type:text/html; Charset=utf-8');
 /*** 请填写以下配置信息 ***/
