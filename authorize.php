@@ -144,6 +144,7 @@ class AlipayService
         return "https://openauth.alipay.com/oauth2/publicAppAuthorize.htm?".$bizString;
     }
 
+	
     /**
      * 拼接签名字符串
      * @param array $urlObj
