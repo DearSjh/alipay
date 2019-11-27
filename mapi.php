@@ -32,6 +32,7 @@ class AlipayService
         $this->signType = $signType;
         $this->privateKey=$privateKey;
     }
+    
     /**
      * 发起订单
      * @param float $totalFee 收款总费用 单位元
