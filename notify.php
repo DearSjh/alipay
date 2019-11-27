@@ -70,6 +70,7 @@ class AlipayService
         return false;
     }
 
+    
     public function getSignContent($params) {
         ksort($params);
         $stringToBeSigned = "";
