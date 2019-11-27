@@ -1,5 +1,6 @@
 <?php
 header('Content-type:text/html; Charset=utf-8');
+
 $appid = 'xxxxx';  //https://open.alipay.com 账户中心->密钥管理->开放平台密钥，填写添加了电脑网站支付的应用的APPID
 $outBizBo = '';        //商户转账唯一订单号（商户转账唯一订单号、支付宝转账单据号 至少填一个）
 $orderId = '';         //支付宝转账单据号（商户转账唯一订单号、支付宝转账单据号 至少填一个）
