@@ -66,6 +66,7 @@ class AlipayService
     {
         $this->tranIn = $tranIn;
     }
+    
 
     public function setRsaPrivateKey($rsaPrivateKey)
     {
