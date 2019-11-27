@@ -11,6 +11,7 @@ $orderName = '支付测试';    //订单标题
 $signType = 'RSA2';			//签名算法类型，支持RSA2和RSA，推荐使用RSA2
 //商户私钥
 $rsaPrivateKey='';
+
 /*** 配置结束 ***/
 $aliPay = new AlipayService();
 $aliPay->setAppid($appid);
