@@ -1,5 +1,6 @@
 <?php
 header('Content-type:text/html; Charset=utf-8');
+
 /*** 请填写以下配置信息 ***/
 $appid = 'xxxxx';			//https://open.alipay.com 账户中心->密钥管理->开放平台密钥，填写添加了电脑网站支付的应用的APPID
 $returnUrl = 'http://www.xxx.com/alipay/return.php';     //付款成功后的同步回调地址
