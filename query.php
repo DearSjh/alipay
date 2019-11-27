@@ -1,5 +1,6 @@
 <?php
 header('Content-type:text/html; Charset=utf-8');
+
 /*** 请填写以下配置信息 ***/
 $appid = '';  //https://open.alipay.com 账户中心->密钥管理->开放平台密钥，填写对应应用的APPID
 $outTradeNo = '';     //要查询的商户订单号。注：商户订单号与支付宝交易号不能同时为空
